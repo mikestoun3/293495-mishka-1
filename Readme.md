@@ -1,6 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Денис Архипов](https://up.htmlacademy.ru/adaptive/10/user/293495).
+
+* Студент: [Денис Архипов](https://up.htmlacademy.ru/adaptive/11/user/293495).
 * Наставник: [Денис Байдаров](https://htmlacademy.ru/profile/4er).
 
 ---
